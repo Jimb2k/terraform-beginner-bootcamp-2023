@@ -3,7 +3,7 @@
 ## Semantic Versioning
 
 This project is going utilize semantic versioning for its tagging.
-[semver.org]https://semver.org/
+[semver.org](https://semver.org/)
 
 The general format:
 
